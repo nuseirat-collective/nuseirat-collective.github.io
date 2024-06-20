@@ -1,1 +1,1 @@
-# nuseirat-collective.github.io
+# nuseirat-collective.github.io -> nuseiratcollective.com
