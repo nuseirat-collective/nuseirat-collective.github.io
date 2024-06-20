@@ -10672,8 +10672,8 @@ footer {
 header.masthead {
   position: relative;
   margin-bottom: 3rem;
-  padding-top: calc(8rem + 57px);
-  padding-bottom: 8rem;
+  padding-top: calc(10rem + 57px);
+  padding-bottom: 10rem;
   background: no-repeat center center;
   background-color: #6c757d;
   background-size: cover;
@@ -10692,7 +10692,9 @@ header.masthead:before {
 header.masthead .page-heading,
 header.masthead .post-heading,
 header.masthead .site-heading {
+  padding-top: 100px;
   color: #fff;
+
 }
 header.masthead .page-heading,
 header.masthead .site-heading {
@@ -10737,8 +10739,8 @@ header.masthead .post-heading .meta a {
 }
 @media (min-width: 992px) {
   header.masthead {
-    padding-top: 12.5rem;
-    padding-bottom: 12.5rem;
+    padding-top: 16.5rem;
+    padding-bottom: 16.5rem;
   }
   header.masthead .page-heading h1, header.masthead .page-heading .h1,
   header.masthead .site-heading h1,
