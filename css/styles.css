@@ -10805,12 +10805,12 @@ header.masthead .post-heading .meta a {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100rem; /* Adjust this value as needed */
+    height: 10rem; /* Adjust this value as needed */
 }
 
 .instagram-embed {
     width: 100%;
-    max-width: 50rem; /* Adjust this value as needed */
+    max-width: 10rem; /* Adjust this value as needed */
     height: 100%;
     overflow: hidden;
     }
